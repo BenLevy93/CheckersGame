@@ -1,0 +1,7 @@
+C:\Users\Ben Levy\Workspace\C#\HW2\CheckersGame_ConsoleEdition\Project1\bin\Debug\Project1.exe.config
+C:\Users\Ben Levy\Workspace\C#\HW2\CheckersGame_ConsoleEdition\Project1\bin\Debug\Project1.exe
+C:\Users\Ben Levy\Workspace\C#\HW2\CheckersGame_ConsoleEdition\Project1\bin\Debug\Project1.pdb
+C:\Users\Ben Levy\Workspace\C#\HW2\CheckersGame_ConsoleEdition\Project1\obj\Debug\Ex02_Project.csprojResolveAssemblyReference.cache
+C:\Users\Ben Levy\Workspace\C#\HW2\CheckersGame_ConsoleEdition\Project1\obj\Debug\Ex02_Project.csproj.CoreCompileInputs.cache
+C:\Users\Ben Levy\Workspace\C#\HW2\CheckersGame_ConsoleEdition\Project1\obj\Debug\Project1.exe
+C:\Users\Ben Levy\Workspace\C#\HW2\CheckersGame_ConsoleEdition\Project1\obj\Debug\Project1.pdb
